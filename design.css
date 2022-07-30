@@ -1,0 +1,53 @@
+#jack   {color:deeppink;
+        font-size: 30px;
+        font-weight: 600;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#but    {font-weight: 700;
+        color: white;
+        background-color: deeppink;
+        border: 1px solid deeppink;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        padding:12px 20px;}
+#cen    {text-align: center;}
+#bot    {margin-top: 150px;
+        text-align: center;}
+#but:hover  {background-color: forestgreen;}
+.bgdesign   {background-image: url('C:\Users\USER\OneDrive\Desktop\Project\Nihonproject\Test1\personal-website\header-bg.png');
+            background-repeat: no-repeat;}
+.bgdesign1  {background-image: url('C:\Users\USER\OneDrive\Desktop\Project\Nihonproject\Test1\personal-website\biography-bg.png');
+            background-repeat: no-repeat;}
+.bgdesign2  {background-image: url('C:\Users\USER\OneDrive\Desktop\Project\Nihonproject\Test1\personal-website\latest-work-bg.png');
+            background-repeat: no-repeat;}
+.half-width {margin left: 5%;
+            padding: 2%;
+            width: 45%;
+            height: 100%;
+            float: left;}
+        
+.half-width img{width: 80%;
+                height: 100%;
+                padding-top: 0%;
+                margin-top: 0%;}
+
+
+.half img {margin:2%;
+        padding:2% ;
+        width: 25%;
+        height: 15%;
+        float: left;}
+
+
+.last   {border: 1px solid deeppink;
+        border-radius: 5px;
+        color: white;
+        background-color: deeppink;
+        text-align: center;
+        font-weight: 700;
+        margin-left: 32%;
+        width: 36%;
+        padding-bottom: 1px;}
+
+section {height: 500px;
+        padding-bottom: 15px;}
